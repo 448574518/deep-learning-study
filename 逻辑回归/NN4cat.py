@@ -278,6 +278,8 @@ for i in learning_rates:
 plt.xlabel("num_iteration")
 plt.ylabel("cost")
 
+
+# 如果有多条曲线，则可用用legend来展示对不同曲线的说明
 legend = plt.legend(loc='upper center', shadow=True)
 frame = legend.get_frame()
 frame.set_facecolor('0.90')
