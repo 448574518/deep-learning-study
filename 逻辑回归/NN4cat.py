@@ -237,13 +237,48 @@ def model(X_train, Y_train, X_test , Y_test, num_iteration, learning_rate, print
     return d
 
 
-d = model(tran_set_x, train_set_y, test_set_x, test_set_y, num_iteration=2000, learning_rate=0.005, print_cost=True)
+# 测试一下模型的效果
+# d = model(tran_set_x, train_set_y, test_set_x, test_set_y, num_iteration=2000, learning_rate=0.005, print_cost=False)
+# costs = np.squeeze(d["costs"])
+# plt.plot(costs)
+# plt.xlabel("num_iteration(per hundreds)")
+# plt.ylabel("cost")
+# plt.title("learning_rate: " + str(d["learning_rate"]))
+# plt.show()
 
-costs = np.squeeze(d["costs"])
-plt.plot(costs)
-plt.xlabel("num_iteration(per hundreds)")
+# 查看预测和实际的差异
+# Y_predict_test = d["Y_predict_test"]
+# dif = []
+# Y_predict_test = Y_predict_test.reshape((1, Y_predict_test.shape[1]))
+# for i in range(Y_predict_test.shape[1]):
+#     if int(Y_predict_test[0, i]) != int(test_set_y[0, i]):
+#         dif.append(i)
+#
+# for i in range(len(dif)):
+#     index = int(dif[i])
+#     plt.imshow(test_set_x_orig[index])
+#     print("第" + str(index) + "张图片，预测结果为：" + classes[int(Y_predict_test[:, index])].decode("utf-8") +
+#           ",实际结果为：" + classes[np.squeeze(test_set_y[:, index])].decode("utf-8"))
+#     pylab.show()
+
+
+# 可以观察一下不同的学习率下，逻辑回归的表现，如果学习率太大，可能会错过最优解，如果太小，有可能会需要迭代太多次才能得到好的效果
+learning_rates = [0.01, 0.001, 0.0001]
+models = {}
+for i in learning_rates:
+    print("当前学习率：" + str(i))
+    models[str(i)] = model(tran_set_x, train_set_y, test_set_x, test_set_y,
+                           num_iteration=2000, learning_rate=i, print_cost=False)
+    print('\n' + "--------------------------------------------------------------------------" + '\n')
+
+for i in learning_rates:
+    # plt.plot(x, y, )
+    plt.plot(np.squeeze(models[str(i)]["costs"]), label=str(models[str(i)]["learning_rate"]))
+
+plt.xlabel("num_iteration")
 plt.ylabel("cost")
-plt.title("learning_rate: " + str(d["learning_rate"]))
+
+legend = plt.legend(loc='upper center', shadow=True)
+frame = legend.get_frame()
+frame.set_facecolor('0.90')
 plt.show()
-# def __main__():
-#     model(tran_set_x, train_set_y, test_set_x, test_set_y, 2000, 0.5, True)
