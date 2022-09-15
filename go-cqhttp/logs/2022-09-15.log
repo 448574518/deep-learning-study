@@ -1,0 +1,59 @@
+[2022-09-15 14:52:15] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-09-15 14:52:21] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-09-15 14:52:21] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-09-15 14:52:21] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-09-15 14:52:21] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-09-15 14:52:31] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=z9wqewSd&style=simple&aid=16&uin=257245629&sid=5744524906161425317&cap_cd=Np6rNBb-96kaUNA8Kc93SPF4EtN3Hz90mXFLNGz5fKZupz3KcK7G3A**&clientype=1&apptype=2 
+[2022-09-15 14:55:09] [WARNING]: 登录失败: 当前登录存在安全风险，请使用常用设备或通过手机号登录。 
+[2022-09-15 15:02:21] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-09-15 15:02:21] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-09-15 15:02:21] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-09-15 15:02:21] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-09-15 15:02:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:02:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:03:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:07:45] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-15 15:07:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:07:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:07:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:07:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:08:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:08:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:08:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:08:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:08:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:08:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:09:10] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-15 15:14:05] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-15 15:40:18] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-15 15:40:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_api.server 时出现错误: dial tcp: lookup your_websocket_api.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:40:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_api.server 时出现错误: dial tcp: lookup your_websocket_api.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:40:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_api.server 时出现错误: dial tcp: lookup your_websocket_api.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:40:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_api.server 时出现错误: dial tcp: lookup your_websocket_api.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:40:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_api.server 时出现错误: dial tcp: lookup your_websocket_api.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:40:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_api.server 时出现错误: dial tcp: lookup your_websocket_api.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:40:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_api.server 时出现错误: dial tcp: lookup your_websocket_api.server on [fe80::5c87:30ff:fe72:ae64%en0]:53: no such host 
+[2022-09-15 15:41:22] [WARNING]: Protocol -> device lock is disable. http api may fail. 
