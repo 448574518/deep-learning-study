@@ -263,12 +263,13 @@ def model(X_train, Y_train, X_test , Y_test, num_iteration, learning_rate, print
 
 
 # 可以观察一下不同的学习率下，逻辑回归的表现，如果学习率太大，可能会错过最优解，如果太小，有可能会需要迭代太多次才能得到好的效果
-learning_rates = [0.01, 0.001, 0.0001]
+# learning_rates = [0.01, 0.001, 0.0001]
+learning_rates = [0.01]
 models = {}
 for i in learning_rates:
     print("当前学习率：" + str(i))
     models[str(i)] = model(tran_set_x, train_set_y, test_set_x, test_set_y,
-                           num_iteration=2000, learning_rate=i, print_cost=False)
+                           num_iteration=2000, learning_rate=i, print_cost=True)
     print('\n' + "--------------------------------------------------------------------------" + '\n')
 
 for i in learning_rates:
